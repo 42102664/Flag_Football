@@ -1,4 +1,4 @@
-package mx.edu.uaz.ingsoft.pooii.Flag_Football.modelo;
+package mx.edu.uaz.ingsoft.pooii.Flag_Football.entidades;
 
 public class Jugador {
 
